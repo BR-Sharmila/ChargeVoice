@@ -113,3 +113,39 @@ ChargeVoice/
 ├── gradle.properties
 ├── settings.gradle.kts
 └── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+Possible future features include:
+
+* 🔋 Custom battery percentage alerts
+* 🌡️ Battery temperature warning
+* ⚡ Charging speed detection
+* 🔔 Custom notifications
+* 🎙️ Custom voice messages
+* 🎨 More customization options
+
+---
+
+## 👩‍💻 Developer
+
+**BR SHARMILA**
+
+BE Computer Science & Engineering Student
+
+---
+
+## 📌 Project Status
+
+**Completed – Working Android Project**
+
+ChargeVoice is a learning project developed to explore Android application development, Kotlin, Text-to-Speech, battery monitoring, background services, and multilingual support.
+
+---
+
+## ⭐ Support
+
+If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
